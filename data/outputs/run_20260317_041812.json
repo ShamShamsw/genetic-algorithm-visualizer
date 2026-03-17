@@ -1,0 +1,81 @@
+{
+  "run_id": "20260317_041812",
+  "solved": true,
+  "generations_executed": 48,
+  "best_fitness": 1.0,
+  "best_genome": "EVOLVE THIS PHRASE",
+  "target_string": "EVOLVE THIS PHRASE",
+  "elapsed_ms": 61.82169995736331,
+  "match_percent": 100.0,
+  "artifacts": {
+    "history_file": "C:\\Users\\jhase\\OneDrive\\Documents\\Jacob\\Programing\\student-interview-prep\\languages\\python\\beginner-projects\\30-genetic-algorithm-visualizer\\data\\outputs\\history_20260317_041812.json",
+    "fitness_plot": "C:\\Users\\jhase\\OneDrive\\Documents\\Jacob\\Programing\\student-interview-prep\\languages\\python\\beginner-projects\\30-genetic-algorithm-visualizer\\data\\outputs\\fitness_20260317_041812.png"
+  },
+  "finished_at": "2026-03-17T04:18:21Z",
+  "config": {
+    "problem_type": "string_match",
+    "target_string": "EVOLVE THIS PHRASE",
+    "genome_length": 18,
+    "gene_pool": "ABCDEFGHIJKLMNOPQRSTUVWXYZ ",
+    "population_size": 140,
+    "max_generations": 220,
+    "mutation_rate": 0.03,
+    "crossover_rate": 0.85,
+    "elitism_count": 3,
+    "tournament_size": 4,
+    "random_seed": 42,
+    "created_at": "2026-03-17T04:18:12Z"
+  },
+  "history_tail": [
+    {
+      "generation": 44,
+      "best_fitness": 0.9444444444444444,
+      "avg_fitness": 0.9134920634920635,
+      "worst_fitness": 0.7222222222222222,
+      "diversity_ratio": 0.4785714285714286,
+      "best_genome": "EVOLVG THIS PHRASE",
+      "solved": false,
+      "timestamp": "2026-03-17T04:18:12Z"
+    },
+    {
+      "generation": 45,
+      "best_fitness": 0.9444444444444444,
+      "avg_fitness": 0.9107142857142857,
+      "worst_fitness": 0.7777777777777778,
+      "diversity_ratio": 0.5285714285714286,
+      "best_genome": "EVOLVG THIS PHRASE",
+      "solved": false,
+      "timestamp": "2026-03-17T04:18:12Z"
+    },
+    {
+      "generation": 46,
+      "best_fitness": 0.9444444444444444,
+      "avg_fitness": 0.9162698412698412,
+      "worst_fitness": 0.7777777777777778,
+      "diversity_ratio": 0.4714285714285714,
+      "best_genome": "EVOLVG THIS PHRASE",
+      "solved": false,
+      "timestamp": "2026-03-17T04:18:12Z"
+    },
+    {
+      "generation": 47,
+      "best_fitness": 0.9444444444444444,
+      "avg_fitness": 0.9142857142857143,
+      "worst_fitness": 0.7777777777777778,
+      "diversity_ratio": 0.5142857142857142,
+      "best_genome": "EVOLVG THIS PHRASE",
+      "solved": false,
+      "timestamp": "2026-03-17T04:18:12Z"
+    },
+    {
+      "generation": 48,
+      "best_fitness": 1.0,
+      "avg_fitness": 0.9138888888888889,
+      "worst_fitness": 0.7777777777777778,
+      "diversity_ratio": 0.5071428571428571,
+      "best_genome": "EVOLVE THIS PHRASE",
+      "solved": true,
+      "timestamp": "2026-03-17T04:18:12Z"
+    }
+  ]
+}

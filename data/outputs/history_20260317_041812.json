@@ -1,0 +1,482 @@
+[
+  {
+    "generation": 1,
+    "best_fitness": 0.16666666666666666,
+    "avg_fitness": 0.037698412698412696,
+    "worst_fitness": 0.0,
+    "diversity_ratio": 1.0,
+    "best_genome": "UWRHVK YYBH BZKMIC",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 2,
+    "best_fitness": 0.2222222222222222,
+    "avg_fitness": 0.08452380952380951,
+    "worst_fitness": 0.0,
+    "diversity_ratio": 1.0,
+    "best_genome": "VJHZGEABHYXZOHRHJZ",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 3,
+    "best_fitness": 0.2777777777777778,
+    "avg_fitness": 0.14523809523809522,
+    "worst_fitness": 0.0,
+    "diversity_ratio": 0.9785714285714285,
+    "best_genome": "VJHZGEABHYXZOHRHSS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 4,
+    "best_fitness": 0.3333333333333333,
+    "avg_fitness": 0.19603174603174603,
+    "worst_fitness": 0.05555555555555555,
+    "diversity_ratio": 0.95,
+    "best_genome": "EHBLRK UFSSPPOFFSS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 5,
+    "best_fitness": 0.3888888888888889,
+    "avg_fitness": 0.2361111111111111,
+    "worst_fitness": 0.1111111111111111,
+    "diversity_ratio": 0.9714285714285714,
+    "best_genome": "EQOBKHOTJYX OHRATZ",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 6,
+    "best_fitness": 0.4444444444444444,
+    "avg_fitness": 0.29404761904761906,
+    "worst_fitness": 0.16666666666666666,
+    "diversity_ratio": 0.9285714285714286,
+    "best_genome": "EVOBKHOTJYX OHRATZ",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 7,
+    "best_fitness": 0.4444444444444444,
+    "avg_fitness": 0.3253968253968254,
+    "worst_fitness": 0.16666666666666666,
+    "diversity_ratio": 0.9714285714285714,
+    "best_genome": "EVOBKHOTJYX OHRATZ",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 8,
+    "best_fitness": 0.4444444444444444,
+    "avg_fitness": 0.3682539682539682,
+    "worst_fitness": 0.2777777777777778,
+    "diversity_ratio": 0.9642857142857143,
+    "best_genome": "EVOBKHOTJYX OHRATZ",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 9,
+    "best_fitness": 0.5,
+    "avg_fitness": 0.403968253968254,
+    "worst_fitness": 0.2777777777777778,
+    "diversity_ratio": 0.9785714285714285,
+    "best_genome": "EVOBKHOTISSPPHRHSS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 10,
+    "best_fitness": 0.5555555555555556,
+    "avg_fitness": 0.44166666666666665,
+    "worst_fitness": 0.2777777777777778,
+    "diversity_ratio": 0.9785714285714285,
+    "best_genome": "EVOLRK NHPX OHRATZ",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 11,
+    "best_fitness": 0.6666666666666666,
+    "avg_fitness": 0.4845238095238095,
+    "worst_fitness": 0.3333333333333333,
+    "diversity_ratio": 0.9571428571428572,
+    "best_genome": "EVOLVX THYXNPHRHSS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 12,
+    "best_fitness": 0.7222222222222222,
+    "avg_fitness": 0.5301587301587302,
+    "worst_fitness": 0.3333333333333333,
+    "diversity_ratio": 0.9285714285714286,
+    "best_genome": "EVOLVX THJT JHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 13,
+    "best_fitness": 0.7222222222222222,
+    "avg_fitness": 0.5880952380952381,
+    "worst_fitness": 0.3888888888888889,
+    "diversity_ratio": 0.8571428571428571,
+    "best_genome": "EVOLVX THJT JHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 14,
+    "best_fitness": 0.7777777777777778,
+    "avg_fitness": 0.6333333333333333,
+    "worst_fitness": 0.3888888888888889,
+    "diversity_ratio": 0.8785714285714286,
+    "best_genome": "EVOLVX THSS PHRTSZ",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 15,
+    "best_fitness": 0.7777777777777778,
+    "avg_fitness": 0.6738095238095239,
+    "worst_fitness": 0.5555555555555556,
+    "diversity_ratio": 0.8357142857142857,
+    "best_genome": "EVOLVX THSS PHRTSZ",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 16,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.7031746031746031,
+    "worst_fitness": 0.5555555555555556,
+    "diversity_ratio": 0.8285714285714286,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 17,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.7305555555555555,
+    "worst_fitness": 0.6111111111111112,
+    "diversity_ratio": 0.8285714285714286,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 18,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.7547619047619047,
+    "worst_fitness": 0.6111111111111112,
+    "diversity_ratio": 0.7714285714285715,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 19,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.7801587301587302,
+    "worst_fitness": 0.6666666666666666,
+    "diversity_ratio": 0.7285714285714285,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 20,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.7908730158730158,
+    "worst_fitness": 0.6111111111111112,
+    "diversity_ratio": 0.6571428571428571,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 21,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.8071428571428572,
+    "worst_fitness": 0.6666666666666666,
+    "diversity_ratio": 0.5357142857142857,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 22,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.803968253968254,
+    "worst_fitness": 0.6666666666666666,
+    "diversity_ratio": 0.5642857142857143,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 23,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.805952380952381,
+    "worst_fitness": 0.6666666666666666,
+    "diversity_ratio": 0.5571428571428572,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 24,
+    "best_fitness": 0.8333333333333334,
+    "avg_fitness": 0.8027777777777778,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.6285714285714286,
+    "best_genome": "EVOLVG THSS PHRASS",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 25,
+    "best_fitness": 0.8888888888888888,
+    "avg_fitness": 0.8083333333333333,
+    "worst_fitness": 0.6666666666666666,
+    "diversity_ratio": 0.5857142857142857,
+    "best_genome": "EVOLVG THSS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 26,
+    "best_fitness": 0.8888888888888888,
+    "avg_fitness": 0.8119047619047619,
+    "worst_fitness": 0.6666666666666666,
+    "diversity_ratio": 0.5928571428571429,
+    "best_genome": "EVOLVG THSS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 27,
+    "best_fitness": 0.8888888888888888,
+    "avg_fitness": 0.8250000000000001,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.5285714285714286,
+    "best_genome": "EVOLVG THSS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 28,
+    "best_fitness": 0.8888888888888888,
+    "avg_fitness": 0.8246031746031746,
+    "worst_fitness": 0.6666666666666666,
+    "diversity_ratio": 0.6214285714285714,
+    "best_genome": "EVOLVG THSS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 29,
+    "best_fitness": 0.8888888888888888,
+    "avg_fitness": 0.8496031746031746,
+    "worst_fitness": 0.6666666666666666,
+    "diversity_ratio": 0.5214285714285715,
+    "best_genome": "EVOLVG THSS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 30,
+    "best_fitness": 0.8888888888888888,
+    "avg_fitness": 0.861111111111111,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.4857142857142857,
+    "best_genome": "EVOLVG THSS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 31,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.8642857142857142,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.4714285714285714,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 32,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.8674603174603175,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.4714285714285714,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 33,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.8690476190476191,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.5142857142857142,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 34,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.8738095238095238,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.55,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 35,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.8801587301587301,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.5714285714285714,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 36,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.8988095238095238,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.55,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 37,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9166666666666666,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.39285714285714285,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 38,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9202380952380952,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.34285714285714286,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 39,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9126984126984127,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.4928571428571429,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 40,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.915079365079365,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.4642857142857143,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 41,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9186507936507936,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.44285714285714284,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 42,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9154761904761904,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.4857142857142857,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 43,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9130952380952381,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.45714285714285713,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 44,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9134920634920635,
+    "worst_fitness": 0.7222222222222222,
+    "diversity_ratio": 0.4785714285714286,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 45,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9107142857142857,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.5285714285714286,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 46,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9162698412698412,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.4714285714285714,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 47,
+    "best_fitness": 0.9444444444444444,
+    "avg_fitness": 0.9142857142857143,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.5142857142857142,
+    "best_genome": "EVOLVG THIS PHRASE",
+    "solved": false,
+    "timestamp": "2026-03-17T04:18:12Z"
+  },
+  {
+    "generation": 48,
+    "best_fitness": 1.0,
+    "avg_fitness": 0.9138888888888889,
+    "worst_fitness": 0.7777777777777778,
+    "diversity_ratio": 0.5071428571428571,
+    "best_genome": "EVOLVE THIS PHRASE",
+    "solved": true,
+    "timestamp": "2026-03-17T04:18:12Z"
+  }
+]
